@@ -1,0 +1,15 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# VS Code settings
+.vscode/
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.log
+*.tmp
